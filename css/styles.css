@@ -194,7 +194,7 @@ a:active {
     margin: auto;
 }
 
-#about-container{
+.noi{
 margin-top: 140px;
 margin-bottom: 140px;
 }
@@ -692,7 +692,7 @@ footer {
     position: relative;
     margin: auto;
 }
- #about-container{
+ .noi{
     margin-top: 140px;
     margin-bottom: 140px;
  }
